@@ -36,7 +36,8 @@ The script connects to a Cisco switch and automates VLAN creation and port assig
 
 \- Netmiko
 
-\- GNS3
+\-PNET
+
 
 
 
